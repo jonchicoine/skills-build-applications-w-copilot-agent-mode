@@ -9,7 +9,7 @@ SECRET_KEY = 'your-secret-key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['miniature-space-adventure-xv57rv9xph65r4-8000.app.github.dev', 'localhost']
 
 # Application definition
 INSTALLED_APPS = [
